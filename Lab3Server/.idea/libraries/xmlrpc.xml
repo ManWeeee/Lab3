@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xmlrpc">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Lab3/org/apache/xmlrpc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
